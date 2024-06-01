@@ -18,3 +18,16 @@ Provide hints like "too high" or "too Low" to help the player guess the correct 
 <img width="444" alt="Screenshot 2024-06-01 140942" src="https://github.com/mdjehidalam/Task-1_Number_Guessing_Game/assets/146694343/b3b88457-3e4f-4432-8d1a-757bddd8f793">
 <img width="365" alt="Screenshot 2024-06-01 140920" src="https://github.com/mdjehidalam/Task-1_Number_Guessing_Game/assets/146694343/79883810-d081-4af1-b932-1b19697ae739">
 <img width="420" alt="Screenshot 2024-06-01 140856" src="https://github.com/mdjehidalam/Task-1_Number_Guessing_Game/assets/146694343/f503de69-f8ef-42ed-933d-ebe3effdedaa">
+
+
+
+# Video of this Project: 
+
+
+
+
+
+
+
+
+
