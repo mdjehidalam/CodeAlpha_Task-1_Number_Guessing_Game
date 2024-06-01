@@ -5,6 +5,8 @@ Develop a number guessing game where the computer randomly selects a number, and
 Provide hints like "too high" or "too Low" to help the player guess the correct number.
 # LinkedIn Link: www.linkedin.com/in/mdjehidalamindia
 
+#LinkedIn Post Link: https://www.linkedin.com/posts/mdjehidalamindia_numberguessinggame-numberguessing-mdjehidalam-activity-7202613156433588224-zamu?utm_source=share&utm_medium=member_desktop
+
 
 
 #Output:
